@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Vaibhavv0505
+  **👋 Hi, I’m Vaibhav Shukla**
+
+ 
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning MERN Stack
 - 👨‍💻 Portfolio Link
