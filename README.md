@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" /> </p>
+<p align="center"> <img  src="https://as2.ftcdn.net/v2/jpg/05/00/17/35/1000_F_500173572_iCjLwll9VkTHc6F6G85fy0KRPQK3ndSs.jpg" /> </p>
 <h1 align="center">Hi 👋, I'm Vaibhav Shukla</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
